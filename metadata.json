@@ -1,0 +1,5 @@
+{
+  "name": "HexPath AI",
+  "description": "A 2D Hexagonal Grid game featuring A* pathfinding and AI-generated terrain maps using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
